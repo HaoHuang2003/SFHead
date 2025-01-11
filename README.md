@@ -1,4 +1,6 @@
 # SF-Head: Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition
+​                                               [![License](https://img.shields.io/badge/license-Apache--2.0-green)](https://opensource.org/licenses/Apache-2.0)                                               [![arXiv](https://img.shields.io/badge/arXiv-2412.02693-b31b1b)](https://arxiv.org/abs/2412.14833)
+
 Our code refers to the following repositories:
 
 - [FR-Head](https://github.com/zhysora/FR-Head)
