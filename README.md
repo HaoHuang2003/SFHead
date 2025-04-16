@@ -1,5 +1,11 @@
 # SF-Head: Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue) [![License](https://img.shields.io/badge/license-Apache--2.0-green)](https://opensource.org/licenses/Apache-2.0) ![Last Commit](https://img.shields.io/github/last-commit/HaoHuang2003/SF-Head) ![Stars](https://img.shields.io/github/stars/HaoHuang2003/SF-Head?style=social) ![Issues](https://img.shields.io/github/issues/HaoHuang2003/SF-Head) ![Forks](https://img.shields.io/github/forks/HaoHuang2003/SF-Head) [![arXiv](https://img.shields.io/badge/arXiv-2412.02693-b31b1b)](https://arxiv.org/abs/2412.14833) [![IET-CV](https://img.shields.io/badge/IET--CV-DOI--10.1049%2Fcvi2.70016-blue)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.70016)
+[![License](https://img.shields.io/badge/license-Apache--2.0-green)](https://opensource.org/licenses/Apache-2.0) 
+![Last Commit](https://img.shields.io/github/last-commit/HaoHuang2003/SF-Head) 
+![Stars](https://img.shields.io/github/stars/HaoHuang2003/SF-Head?label=Stars&logo=github&color=blue)
+![Issues](https://img.shields.io/github/issues/HaoHuang2003/SF-Head) 
+![Forks](https://img.shields.io/github/forks/HaoHuang2003/SF-Head?label=Forks&logo=github&color=blue)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.02693-b31b1b)](https://arxiv.org/abs/2412.14833) 
+[![IET-CV](https://img.shields.io/badge/IET--CV-DOI--10.1049%2Fcvi2.70016-blue)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.70016)
 
 ## 🌟 Abstract
 
