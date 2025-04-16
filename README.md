@@ -7,7 +7,7 @@ Skeleton-based action recognition using Graph Convolutional Networks (GCNs) has 
 
 ## 📰 Latest News
 
-- **[04/16/2025]** SF-Head model code are now available! Please check out the [GitHub repository](https://github.com/HaoHuang2003/SF-Head#) for more details. 
+- **[04/16/2025]** SF-Head model code are now available! Please check out the [GitHub repository](https://github.com/HaoHuang2003/SF-Head) for more details. 
 - **[04/15/2025]** Our paper has been published in **IET-CV**! 🎉
 
 ## 🖼️ Architecture
