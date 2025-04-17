@@ -20,8 +20,6 @@ Skeleton-based action recognition using Graph Convolutional Networks (GCNs) has 
 
 ![main_121](assets/main_121.png)
 
-Got it! Here's how you can modify the **Installation and Usage** section to clarify that the dependencies should be based on the user's specific project.
-
 ------
 
 ## ⚙️ Installation and Usage
